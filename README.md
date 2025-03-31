@@ -2,21 +2,22 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18595286&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-Timely delivery is crucial in ensuring client satisfaction, rapidly responding to the market needs thus overcoming competition, preventing cost overruns, resource optimisation and building trust with project stakeholders. 
+Timely delivery is crucial in ensuring client satisfaction, rapidly responding to the market needs thus overcoming competition, preventing cost overruns, resource optimisation and building trust with project stakeholders.  
+
 Project managers can use various strategies for timely delivery of software projects; 
-Implement agile methodologies for iterative development and frequent feedback.
-Breaking down tasks and defining dependancies. 
-Identify potential delays and draw up contigency plans. 
-Use tools like Jira to track progress. 
-Implement a proactive approach to problem solving. 
+Implement agile methodologies for iterative development and frequent feedback.  
+Breaking down tasks and defining dependancies.  
+Identify potential delays and draw up contigency plans.  
+Use tools like Jira to track progress.  
+Implement a proactive approach to problem solving.  
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Cost control increases the profit margins, makes the project financially feasible, increases investors' confidence, reduces risk of failure, optimises resource allocation and project flexibility. 
-How to prevent overruns. 
-Perform accurate cost estimation through historical data, detailed analysis and contigency planning. 
-Create a clearly defined project scope. 
-Implement automation and outsource to optimise resources.
-Utilise tools to track project management progress. 
-Conduct audits to identify areas to improve. 
+How to prevent overruns.   
+Perform accurate cost estimation through historical data, detailed analysis and contigency planning.  
+Create a clearly defined project scope.  
+Implement automation and outsource to optimise resources.  
+Utilise tools to track project management progress.  
+Conduct audits to identify areas to improve.  
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Waterfall Methodology is a linear approach where each phase of the project must be completed before the next one begins with emphasis on thorough upfront planning and documentation.
 
