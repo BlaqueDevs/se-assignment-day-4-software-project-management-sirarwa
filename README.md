@@ -20,12 +20,12 @@ Conduct audits to identify areas to improve.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Waterfall Methodology is a linear approach where each phase of the project must be completed before the next one begins with emphasis on thorough upfront planning and documentation.
 
-###Advantages:
+##Advantages:
 Well-defined phases and milestones provide a predictable project roadmap.
 Simple and straightforward to implement, especially for projects with stable requirements.
 Comprehensive documentation at each phase.
 
-###Disadvantages:
+##Disadvantages:
 Difficult to adapt to changing requirements or unexpected issues.
 Changes are costly and time-consuming once a phase is completed.
 Testing occurs late in the process, potentially leading to significant rework.
